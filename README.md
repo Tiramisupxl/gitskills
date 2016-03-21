@@ -1,3 +1,4 @@
 # gitskills
 Creating a new branch is quick AND simple.
-原分支也修改
+修改修改
+我是另一个分支的修改
